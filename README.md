@@ -1,0 +1,1 @@
+# web-diw-mestre-detalhe-query-string-URLSearchParams-window.location.search-rodape
